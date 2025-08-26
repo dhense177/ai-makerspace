@@ -1,2 +1,2 @@
 # ai-makerspace
-Repo For AI Makerspace Bootcamp Projects
+Repository For AI Makerspace Bootcamp Projects
